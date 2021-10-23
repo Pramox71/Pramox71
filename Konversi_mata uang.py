@@ -34,14 +34,18 @@ def loops():
         JPY()
     else:
         print("Mata Uang tidak teridentifikasi")
-    x = str(input("Apakah anda ingin mengkorvesi ulang? Yes/No :"))
-    while x:
+    Y = True
+    while Y == True:
+        x = str(input("Apakah anda ingin mengkorvesi ulang? Yes/No :"))
         if x == "Yes":
             loops()
+            Y = False
         elif x == "No":
             print("Selesai")
+            Y = True
+            break
         else:
             print("Tidak Terdefinisi")
-            break
-        loops()
+            loops()    
+            Y = False  
 loops()
