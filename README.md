@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pramox71
-- 👀 I’m interested in Bapakmu
+- 👀 I’m interested with mechine learning and UI/UX
 - 🌱 I’m currently learning Koding
 - 💞️ I’m looking to collaborate on Someone
 - 📫 How to reach me say my name
