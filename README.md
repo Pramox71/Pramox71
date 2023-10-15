@@ -1,4 +1,4 @@
-<a align='center' href="https://github.com/Pramox71"><img src="https://github.com/Pramox71/Pramox71/blob/main/images/header.png?raw=true"></a>&nbsp;&nbsp;
+
 <h1 align='center'> Hello Bujang! :wave:</h1>
 <p align='center'> My name is Dhimas Pramudya Tridharma. I am student Mulawarman University 😎 </p>
 <p align='center'>
