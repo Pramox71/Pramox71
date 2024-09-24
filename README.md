@@ -3,9 +3,9 @@
 <p align='center'> My name is Dhimas Pramudya Tridharma. I am student Mulawarman University 😎 </p>
 <p align='center'>
    <a href="https://github.com/Pramox71/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramox71&layout=compact" alt="Dhimas Pram's github stats"/>
+   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pramox71&layout=compact&langs_count=8&theme=buefy"/>
    </a>
    <a href="https://github.com/Pramox71/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pramox71&hide=issues&count_private=true&show_icons=true" alt="Dhimas Pram's github stats" />
+   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pramox71&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
    </a>
 </p>
